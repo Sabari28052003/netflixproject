@@ -1,0 +1,102 @@
+body{
+    background:url(https://th.bing.com/th/id/OIP.0u2ynz-XDDaq3suwHtC7eQHaEK?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-style: Graphique Pro;
+}
+.box{
+    height: 620px;
+    width: 550px;
+    margin: auto;
+    background-color: black;
+}
+.sign{
+    color: white;
+    
+    margin-top: -500px;
+    margin-left: 500px;
+}
+.io{
+    margin-left: 550px;
+    border-color: white;
+    input[type="text"] {
+        background-color: black; 
+        color: white; 
+        width: 300px;
+        padding: 10px;
+}}
+
+.pass{
+    margin-left: 550px;
+    border-color: white;
+    input[type="text"] {
+        background-color:black; 
+        color: white; 
+        width: 300px;
+        padding: 10px;
+
+}}
+
+#s{
+   
+    
+    height: 20px;
+    
+        background-color:red; 
+        color:white; 
+        width: 325px;
+        height: 45px;
+        text-align: center;
+        margin-left:550px ;
+
+}
+
+h4{
+    color: antiquewhite;
+    margin-left: -50px;
+}
+#t
+{
+    height: 20px;
+    color:white; 
+    width: 325px;
+    height: 45px;
+    text-align: center;
+    margin-left:550px ;
+    background-color: gray;
+
+}
+#f{
+    color: wheat;
+    font-size: small;
+    margin-left: 665px;
+}
+#i{
+    margin-left: 505px;
+    color: white;
+    font-size: small;
+}
+#rm{
+    color: white;
+    margin-left:-20px;
+    margin-top: 80px;
+}
+#ty
+{
+    color: wheat;
+    font-size: small;
+    margin-left: 605px;
+
+}
+h5{
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#kk{
+    margin-left: 500px;
+    margin-top: 15px;
+}
